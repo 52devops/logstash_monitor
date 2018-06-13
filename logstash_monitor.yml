@@ -1,0 +1,14 @@
+logstash_server:
+    logstash0:
+    - hostname: p-awsbj-sqe-elk-logstash-1527150411
+    - port: 9600
+    logstash1:
+    - hostname: p-awsbj-sqe-elk-logstash-1526955976
+    - port: 9600
+    logstash2:
+    - hostname: p-awsbj-sqe-elk-logstash-1512373378
+    - port: 9600
+    logstash3:
+    - hostname: p-awsbj-sqe-elk-logstash-1512373368
+    - port: 9600
+env: prod

@@ -1,0 +1,1 @@
+* * * * * /bin/python3.6 /opt/falcon/logstash_monitor.py && \mv -f /opt/falcon/logstash.prom  /usr/local/prometheus/node_exporter/scripts/logstash.prom
